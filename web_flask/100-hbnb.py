@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """Start web application with two routings
 """
 
