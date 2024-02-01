@@ -4,6 +4,8 @@ This repository contains the initial stage of a student project to build a clone
 
 ## This is a repository for 0x02. AirBnB clone - MySQL
 
+![img](https://pin.it/7JXsCCiyD)
+
 ---
 
 <center><h3>Repository Contents by Project Task</h3> </center>
